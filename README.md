@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saud Masood
 
-🎓 **Computer Science Student | 📱 Flutter Developer | 🤖 AI & Machine Learning Enthusiast | 💻 Software Developer**
+🎓 **📱 Flutter Developer | 🤖 AI & Machine Learning Enthusiast | 💻 Software Developer**
 
 I'm a passionate **Computer Science student and developer** focused on building real-world applications using **Flutter, Dart, Firebase, AI, Machine Learning, and Computer Vision**. I enjoy transforming ideas into practical, user-friendly software solutions and continuously expanding my technical skills.
 

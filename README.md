@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saud+Masood+%F0%9F%91%8B;Flutter+Developer;AI+%26+Web+Developer;Software+Developer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:0A66C2&height=200&section=header&text=Saud%20Masood&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20AI%20%26%20Web%20Developer%20%7C%20Software%20Developer&descAlignY=58&descSize=18" alt="header banner" width="100%"/>
 
-### 📱 Flutter Developer &nbsp;|&nbsp; 🤖 AI & Web Developer &nbsp;|&nbsp; 💻 Software Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Building+with+Flutter+%26+Dart+%F0%9F%92%99;Exploring+AI+%26+Computer+Vision+%F0%9F%A4%96;Turning+Ideas+Into+Real+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 
 **Computer Science graduate building real-world applications with Flutter, Dart, Firebase, AI, Machine Learning, and Computer Vision.**
 
@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saud%20Masood-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saud-masood-789898252/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Status](https://img.shields.io/badge/Open%20to-Work-brightgreen)]()
-![Profile Views](https://komarev.com/ghpvc/?username=SaudMasood&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=SaudMasood&color=0A66C2&style=flat)
 
 </div>
 
@@ -65,16 +65,27 @@ I'm a passionate Computer Science graduate and developer focused on turning idea
 
 | Degree | Institution | Status |
 |---|---|---|
-| BS Computer Science | *[Add University Name]* | Graduate |
+| BS Computer Science | National Skills University, Islamabad | Graduate |
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Achievements
 
-> *(Add your certifications here — course name, issuing platform, and year)*
+| Certification / Achievement | Organization | Year | Category |
+|---|---|:---:|---|
+| HEC National Skills Competency Test (NSCT) | Higher Education Commission (HEC), Pakistan | 2025 | Achievement |
+| Flutter Mobile App Development | Coursera | 2025 | Mobile App Development |
+| Google IT Automation with Python | Coursera | 2025 | Python |
+| Web Development | IBM (via Coursera) | 2025 | Web Development |
+| Deep Learning | Coursera | 2025 | Artificial Intelligence / Machine Learning |
+| Prime Minister's Youth Laptop Scheme (PMYLS) | Government of Pakistan | 2025 | Achievement |
+| Additional Professional Certifications | Available on LinkedIn Profile | — | Professional Development |
 
-- 🎓 *[Certification Name]* — *[Issuing Organization]*, *[Year]*
-- 🎓 *[Certification Name]* — *[Issuing Organization]*, *[Year]*
+<div align="center">
+
+[![View All Certifications](https://img.shields.io/badge/View%20All%20Certifications-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saud-masood-789898252/)
+
+</div>
 
 ---
 
@@ -204,6 +215,39 @@ Task management app with full CRUD operations and local persistence using SQLite
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SaudMasood/SaudMasood/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="90%"/>
+
+<sub>Animated snake eating my contribution graph — generated automatically via a scheduled GitHub Action (see note below).</sub>
+
+</div>
+
+---
+
+## 🔎 More to Explore
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6E56CF?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white)](#)
+[![Blog](https://img.shields.io/badge/Blog-Read%20Articles-000000?style=for-the-badge&logo=hashnode&logoColor=white)](#)
+[![Repositories](https://img.shields.io/badge/Repositories-Browse%20All-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaudMasood?tab=repositories)
+
+</div>
+
+| Explore | Description |
+|---|---|
+| 🌐 **Portfolio Website** | *(Add your portfolio link)* — a showcase of projects with live demos |
+| 📄 **Resume / CV** | *(Add your resume link)* — full work history, skills, and education |
+| ✍️ **Technical Blog** | *(Add your blog link)* — write-ups on Flutter, AI, and project breakdowns |
+| 📦 **Pinned Repositories** | Pin your top 6 projects on your GitHub profile for quick discovery |
+| 🎥 **Project Demos** | *(Add YouTube/Drive links)* — short demo videos of Sign Buddy, Metro Bus App, etc. |
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, contributing to exciting projects, learning new technologies, and exploring opportunities in **Flutter, Software Development, and Artificial Intelligence**.
@@ -217,3 +261,5 @@ I'm always interested in connecting with developers, contributing to exciting pr
 **⭐ Feel free to explore my repositories, contribute to my projects, or reach out for collaboration!**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0175C2&height=100&section=footer" alt="footer banner" width="100%"/>

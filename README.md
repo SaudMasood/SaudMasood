@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-SaudMasood-181717?logo=github&logoColor=white)](https://github.com/SaudMasood)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saud%20Masood-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saud-masood-789898252/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:saudmasood974@gmail.com)
 [![Status](https://img.shields.io/badge/Open%20to-Work-brightgreen)]()
 ![Profile Views](https://komarev.com/ghpvc/?username=SaudMasood&color=0A66C2&style=flat)
 
@@ -55,7 +55,7 @@ I'm a passionate Computer Science graduate and developer focused on turning idea
 </table>
 
 - 💞️ **Looking to collaborate on:** Open-source Flutter apps, AI-powered mobile apps, Machine Learning projects, Computer Vision solutions, REST API integrations
-- 📫 **How to reach me:** GitHub or LinkedIn — open to collaboration, internships, freelance projects, and professional opportunities
+- 📫 **How to reach me:** GitHub, LinkedIn, or email — open to collaboration, internships, freelance projects, and professional opportunities
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love combining mobile development with AI to turn creative ideas into intelligent, real-world applications
 
@@ -102,141 +102,121 @@ I'm a passionate Computer Science graduate and developer focused on turning idea
 ## 🚀 Featured Projects
 
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### 🤟 Sign Buddy (Final Year Project)
+### 🤟 Sign Buddy — *Final Year Project*
 AI-powered Sign Language Recognition mobile application that translates hand gestures into text and speech using Computer Vision and Machine Learning.
 
 `Flutter` `Python` `TensorFlow` `MediaPipe` `OpenCV` `AI`
 
-🔗 **Repository:** https://github.com/SaudMasood/SignBuddy
+🔗 [Repository](https://github.com/SaudMasood/SignBuddy)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🔍 FindIt App
-Lost & Found mobile application enabling users to report, search, and recover lost items with Firebase backend.
+Lost & Found mobile application enabling users to report, search, and recover lost items with a Firebase backend.
 
 `Flutter` `Firebase` `Provider` `Cloud Firestore`
 
-🔗 **Repository:** https://github.com/SaudMasood/Findit_App
+🔗 [Repository](https://github.com/SaudMasood/Findit_App)
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 💰 Personal Finance App
-Expense and income tracking application featuring budgeting, analytics, local database, and Firebase authentication.
+Expense and income tracking application with budgeting, analytics, a local database, and Firebase authentication.
 
 `Flutter` `SQLite` `Firebase` `Provider`
 
-🔗 **Repository:** https://github.com/SaudMasood
+🔗 [Repository](https://github.com/SaudMasood)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🔐 Flutter Login & Signup System
-Complete authentication system with Login, Signup, Forgot Password, OTP Verification, REST API integration, Node.js backend, and MongoDB.
+Full authentication system with login, signup, forgot password, OTP verification, a Node.js/Express backend, and a MongoDB database.
 
 `Flutter` `Node.js` `Express.js` `MongoDB`
 
-🔗 **Repository:** https://github.com/SaudMasood
+🔗 [Repository](https://github.com/SaudMasood)
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 😊 Face Emotion Detection
-Real-time facial emotion recognition using Deep Learning and Computer Vision.
+Real-time facial emotion recognition system using Deep Learning and Computer Vision.
 
 `Python` `TensorFlow` `Keras` `OpenCV`
 
-🔗 **Repository:** https://github.com/SaudMasood
+🔗 [Repository](https://github.com/SaudMasood)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🚌 Metro Bus App
-Flutter application for browsing Metro Bus routes, stations, and schedules with a clean and responsive UI.
+Flutter application for browsing metro bus routes, stations, and schedules with a clean, responsive UI.
 
 `Flutter` `Dart` `Material Design`
 
-🔗 **Repository:** https://github.com/SaudMasood
+🔗 [Repository](https://github.com/SaudMasood)
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### ✅ To-Do App
-Task management application supporting Create, Read, Update, Delete (CRUD) operations with local persistence.
+Task management application with full CRUD operations and local persistence.
 
 `Flutter` `SQLite` `Provider`
 
-🔗 **Repository:** https://github.com/SaudMasood
+🔗 [Repository](https://github.com/SaudMasood)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🌦️ Weather App
-Weather forecasting application with real-time weather data, city search, and responsive Flutter UI.
+Weather forecasting application with real-time data, city search, and a responsive Flutter UI.
 
 `Flutter` `REST API`
 
-🔗 **Repository:** https://github.com/SaudMasood
+🔗 [Repository](https://github.com/SaudMasood)
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🛒 React E-Commerce Website
-Modern e-commerce frontend built using React featuring routing, shopping cart, authentication UI, and responsive design.
+Modern e-commerce frontend built with React, featuring routing, a shopping cart, authentication UI, and responsive design.
 
 `React.js` `JavaScript` `CSS`
 
-🔗 **Repository:** https://github.com/SaudMasood
+🔗 [Repository](https://github.com/SaudMasood)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🌐 Portfolio Website
-Personal portfolio website showcasing my projects, technical skills, certifications, resume, and professional journey.
+Personal portfolio site showcasing my projects, technical skills, certifications, and professional journey.
 
 `Flutter Web` `GitHub Pages`
 
-🌐 **Live:** https://saudmasood.github.io/Portfolio_SaudMasood/
+🌍 [Live Site](https://saudmasood.github.io/Portfolio_SaudMasood/)
 
 </td>
-
 </tr>
-
 </table>
 
-> 📌 **Explore all my repositories:**  
-> https://github.com/SaudMasood?tab=repositories
+> 📌 Explore all projects on my [GitHub repositories](https://github.com/SaudMasood?tab=repositories)
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -307,7 +287,7 @@ Personal portfolio website showcasing my projects, technical skills, certificati
 
 <img src="https://raw.githubusercontent.com/SaudMasood/SaudMasood/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="90%"/>
 
-<sub>Animated snake eating my contribution graph — generated automatically via a scheduled GitHub Action (see note below).</sub>
+<sub>Animated snake eating my contribution graph — generated automatically via a scheduled GitHub Action.</sub>
 
 </div>
 
@@ -318,31 +298,20 @@ Personal portfolio website showcasing my projects, technical skills, certificati
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saudmasood.github.io/Portfolio_SaudMasood/)
-
 [![Resume](https://img.shields.io/badge/📄%20Resume-Download%20CV-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/SaudMasood/CV-PDF)
-
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaudMasood)
-
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saud-masood-789898252/)
-
-[![Email](https://img.shields.io/badge/📧%20Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saudmasood974@gmail.com)
-
+[![Repositories](https://img.shields.io/badge/📦%20Repositories-Browse%20All-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaudMasood?tab=repositories)
 [![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923065059974)
 
-[![Repositories](https://img.shields.io/badge/📦%20Repositories-Browse%20All-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaudMasood?tab=repositories)
+</div>
 
-</div>
-</div>
-| Explore | Description |
+| | |
 |---|---|
-| 🌐 **Portfolio Website** | 🚀 **Live Portfolio:** https://saudmasood.github.io/Portfolio_SaudMasood/ |
-| 📄 **Resume / CV** | 📥 **Download CV:** https://github.com/SaudMasood/CV-PDF |
-| 💼 **LinkedIn** | 🔗 https://www.linkedin.com/in/saud-masood-789898252/ |
-| 🐙 **GitHub Profile** | ⭐ https://github.com/SaudMasood |
-| 📧 **Email** | ✉️ saudmasood974@gmail.com |
-| 📱 **WhatsApp / Contact** | 📞 +92 306 5059974 |
-| 📦 **Pinned Repositories** | ⭐ Explore my Flutter, AI, Machine Learning, Web Development, and Software Engineering projects on GitHub. |
-| 🎥 **Project Demos** | 🎬 Demo videos of my Flutter and AI projects will be available soon. |
+| 🌐 **Portfolio** | Live project showcase → [saudmasood.github.io/Portfolio_SaudMasood](https://saudmasood.github.io/Portfolio_SaudMasood/) |
+| 📄 **Resume / CV** | Full work history, skills & education → [Download](https://github.com/SaudMasood/CV-PDF) |
+| 📧 **Email** | [saudmasood974@gmail.com](mailto:saudmasood974@gmail.com) |
+| 📱 **WhatsApp** | [+92 306 5059974](https://wa.me/923065059974) |
+| 🎥 **Project Demos** | Coming soon — demo videos of Flutter and AI projects |
+
 ---
 
 ## 🤝 Let's Connect
@@ -353,7 +322,7 @@ I'm always interested in connecting with developers, contributing to exciting pr
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaudMasood)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saud-masood-789898252/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saudmasoo974@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saudmasood974@gmail.com)
 
 **⭐ Feel free to explore my repositories, contribute to my projects, or reach out for collaboration!**
 

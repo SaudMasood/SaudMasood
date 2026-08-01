@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Saud Masood 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saud+Masood+%F0%9F%91%8B;Flutter+Developer;AI+%26+Web+Developer;Software+Developer" alt="Typing SVG" />
 
 ### 📱 Flutter Developer &nbsp;|&nbsp; 🤖 AI & Web Developer &nbsp;|&nbsp; 💻 Software Developer
 
@@ -8,7 +8,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-SaudMasood-181717?logo=github&logoColor=white)](https://github.com/SaudMasood)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saud%20Masood-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saud-masood-789898252/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Status](https://img.shields.io/badge/Open%20to-Work-brightgreen)]()
+![Profile Views](https://komarev.com/ghpvc/?username=SaudMasood&color=blue&style=flat)
 
 </div>
 
@@ -16,27 +18,124 @@
 
 ## 🧭 About Me
 
-I'm a passionate Computer Science graduate and developer focused on turning ideas into practical, user-friendly software — with a particular interest in combining **mobile development with Artificial Intelligence**.
+I'm a passionate Computer Science graduate and developer focused on turning ideas into practical, user-friendly software — with a particular interest in combining **mobile development with Artificial Intelligence**. I care about writing clean, maintainable code and shipping applications that solve real problems, not just tech demos.
 
-- 👀 **Interested in:** Flutter Development, Mobile App Development, Artificial Intelligence, Machine Learning, Computer Vision, Software Development, Backend Development
-- 🌱 **Currently learning:** Advanced Flutter, REST API Integration, State Management, Node.js, Express.js, Backend Development, AI/ML model integration with mobile apps
-- 💻 **Working with:** Flutter, Dart, Firebase, SQLite/Sqflite, Provider, REST APIs, Python, TensorFlow, Keras, MediaPipe, OpenCV, SQL, Git & GitHub
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**👀 Interested in**
+- Flutter & Mobile App Development
+- Artificial Intelligence & Machine Learning
+- Computer Vision
+- Software & Backend Development
+
+**🌱 Currently learning**
+- Advanced Flutter architecture patterns
+- REST API integration at scale
+- State management (Provider, Bloc)
+- Node.js, Express.js & backend development
+- AI/ML model integration with mobile apps
+
+</td>
+<td valign="top" width="50%">
+
+**💼 Open to**
+- Flutter Developer roles
+- Mobile App Development internships
+- Software Development opportunities
+- AI/ML projects & freelance work
+- Open-source collaboration
+
+**🎯 Goal**
+- To become a skilled software developer who builds impactful, intelligent, and scalable applications that solve real-world problems
+
+</td>
+</tr>
+</table>
+
 - 💞️ **Looking to collaborate on:** Open-source Flutter apps, AI-powered mobile apps, Machine Learning projects, Computer Vision solutions, REST API integrations
-- 🎯 **Goal:** To become a skilled software developer who builds impactful, intelligent, scalable applications that solve real-world problems
-- 💼 **Open to:** Flutter Developer roles, Mobile App Development internships, Software Development opportunities, AI/ML projects, freelance work, open-source collaboration
+- 📫 **How to reach me:** GitHub or LinkedIn — open to collaboration, internships, freelance projects, and professional opportunities
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love combining mobile development with AI to turn creative ideas into intelligent, real-world applications
 
 ---
 
+## 🎓 Education
+
+| Degree | Institution | Status |
+|---|---|---|
+| BS Computer Science | *[Add University Name]* | Graduate |
+
+---
+
+## 🏆 Certifications
+
+> *(Add your certifications here — course name, issuing platform, and year)*
+
+- 🎓 *[Certification Name]* — *[Issuing Organization]*, *[Year]*
+- 🎓 *[Certification Name]* — *[Issuing Organization]*, *[Year]*
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Duration |
+|---|---|---|
+| Flutter App Development Intern | NextGenatix | 1 Month |
+
+> Completed a hands-on internship covering Flutter fundamentals, navigation & reusable widgets, state management with Provider, and REST API integration — see [Featured Projects](#-featured-projects) below.
+
+---
+
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🤟 **Sign Buddy** | AI-powered ASL Sign Language Recognition mobile application |
-| 🙂 **Face Emotion Detection** | Real-time emotion detection using Computer Vision |
-| 🚌 **Metro Bus App** | Flutter application for metro bus routes and schedules |
-| ✅ **To-Do App** | Task management app with local persistence using SQLite |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤟 Sign Buddy
+AI-powered ASL Sign Language Recognition mobile application that translates hand signs in real time.
+
+`Flutter` `Python` `TensorFlow` `MediaPipe` `Computer Vision`
+
+[🔗 Repository](https://github.com/SaudMasood)
+
+</td>
+<td width="50%" valign="top">
+
+### 🙂 Face Emotion Detection
+Real-time facial emotion recognition system built with computer vision and deep learning.
+
+`Python` `OpenCV` `TensorFlow` `Keras`
+
+[🔗 Repository](https://github.com/SaudMasood)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚌 Metro Bus App
+Flutter application for browsing metro bus routes, stops, and schedules with a clean UI.
+
+`Flutter` `Dart` `Material Design`
+
+[🔗 Repository](https://github.com/SaudMasood)
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ To-Do App
+Task management app with full CRUD operations and local persistence using SQLite.
+
+`Flutter` `Dart` `SQLite` `Provider`
+
+[🔗 Repository](https://github.com/SaudMasood)
+
+</td>
+</tr>
+</table>
 
 > 📌 Explore all projects on my [GitHub repositories](https://github.com/SaudMasood?tab=repositories)
 
@@ -80,14 +179,26 @@ I'm a passionate Computer Science graduate and developer focused on turning idea
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaudMasood&show_icons=true&theme=default&hide_border=true" alt="Saud Masood's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaudMasood&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Saud Masood's GitHub stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SaudMasood&hide_border=true" alt="Saud Masood's GitHub streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaudMasood&layout=compact&hide_border=true" alt="Saud Masood's top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaudMasood&hide_border=true" alt="Saud Masood's contribution graph" width="90%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SaudMasood&theme=flat&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
 
 </div>
 
@@ -101,6 +212,7 @@ I'm always interested in connecting with developers, contributing to exciting pr
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaudMasood)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saud-masood-789898252/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 **⭐ Feel free to explore my repositories, contribute to my projects, or reach out for collaboration!**
 

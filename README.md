@@ -74,7 +74,7 @@ I'm a passionate Computer Science graduate and developer focused on turning idea
 | Certification / Achievement | Organization | Year | Category |
 |---|---|:---:|---|
 | HEC National Skills Competency Test (NSCT) | Higher Education Commission (HEC), Pakistan | 2025 | Achievement |
-| Flutter Mobile App Development | Coursera | 2025 | Mobile App Development |
+| Flutter Mobile App Development | IBM (via Coursera) | 2025 | Mobile App Development |
 | Google IT Automation with Python | Coursera | 2025 | Python |
 | Web Development | IBM (via Coursera) | 2025 | Web Development |
 | Deep Learning | Coursera | 2025 | Artificial Intelligence / Machine Learning |

@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:0A66C2&height=200&section=header&text=Saud%20Masood&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Mobile%20App%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=18" alt="Saud Masood - Flutter Mobile App Developer and AI/ML Engineer" width="100%"/>
+<img src="assets/banner.png" alt="Saud Masood - Flutter Mobile App Developer, AI / ML Engineer and Software Engineer" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Flutter+Mobile+App+Developer;AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Deep+Learning;Turning+Ideas+Into+Real+Apps" alt="Typing animation" />
 
-**Flutter Mobile App Developer and AI / ML Engineer** building real-world applications with Flutter, Dart, Firebase, Machine Learning and Computer Vision.
+<br/>
+
+<img src="assets/role-flutter.png" alt="Flutter Mobile App Developer" width="32%"/>
+<img src="assets/role-aiml.png" alt="AI / ML Engineer" width="32%"/>
+<img src="assets/role-software.png" alt="Software Engineer" width="32%"/>
+
+<br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-SaudMasood-181717?logo=github&logoColor=white)](https://github.com/SaudMasood)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saud%20Masood-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saud-masood-789898252/)
@@ -19,7 +25,11 @@
 
 ## 🧭 About Me
 
+<img src="assets/profile.png" alt="Saud Masood" align="right" width="150"/>
+
 I'm a Computer Science graduate working as a **Flutter mobile app developer and AI / ML engineer**. I focus on turning ideas into practical, user-friendly software, with a particular interest in combining **mobile development with Artificial Intelligence**. I care about clean, maintainable code and shipping applications that solve real problems, not just tech demos.
+
+<br clear="right"/>
 
 <table>
 <tr>
@@ -107,6 +117,8 @@ I'm a Computer Science graduate working as a **Flutter mobile app developer and 
 <tr>
 <td width="50%" valign="top">
 
+<img src="assets/project-signbuddy.png" alt="Sign Buddy project preview" width="100%"/>
+
 ### 🤟 Sign Buddy: *Final Year Project*
 AI-powered Sign Language Recognition mobile application that translates hand gestures into text and speech using Computer Vision and Machine Learning.
 
@@ -116,6 +128,8 @@ AI-powered Sign Language Recognition mobile application that translates hand ges
 
 </td>
 <td width="50%" valign="top">
+
+<img src="assets/project-findit.png" alt="FindIt App project preview" width="100%"/>
 
 ### 🔍 FindIt App
 Lost & Found mobile application enabling users to report, search, and recover lost items with a Firebase backend.
@@ -129,6 +143,8 @@ Lost & Found mobile application enabling users to report, search, and recover lo
 <tr>
 <td width="50%" valign="top">
 
+<img src="assets/project-personal-finance.png" alt="Personal Finance App project preview" width="100%"/>
+
 ### 💰 Personal Finance App
 Expense and income tracking application with budgeting, analytics, a local database, and Firebase authentication.
 
@@ -138,6 +154,8 @@ Expense and income tracking application with budgeting, analytics, a local datab
 
 </td>
 <td width="50%" valign="top">
+
+<img src="assets/project-login-signup.png" alt="Flutter Login and Signup System project preview" width="100%"/>
 
 ### 🔐 Flutter Login & Signup System
 Full authentication system with login, signup, forgot password, OTP verification, a Node.js/Express backend, and a MongoDB database.
@@ -151,6 +169,8 @@ Full authentication system with login, signup, forgot password, OTP verification
 <tr>
 <td width="50%" valign="top">
 
+<img src="assets/project-face-emotion.png" alt="Face Emotion Detection project preview" width="100%"/>
+
 ### 😊 Face Emotion Detection
 Real-time facial emotion recognition system using Deep Learning and Computer Vision.
 
@@ -160,6 +180,8 @@ Real-time facial emotion recognition system using Deep Learning and Computer Vis
 
 </td>
 <td width="50%" valign="top">
+
+<img src="assets/project-metro-bus.png" alt="Metro Bus App project preview" width="100%"/>
 
 ### 🚌 Metro Bus App
 Flutter application for browsing metro bus routes, stations, and schedules with a clean, responsive UI.
@@ -173,6 +195,8 @@ Flutter application for browsing metro bus routes, stations, and schedules with 
 <tr>
 <td width="50%" valign="top">
 
+<img src="assets/project-todo.png" alt="To-Do App project preview" width="100%"/>
+
 ### ✅ To-Do App
 Task management application with full CRUD operations and local persistence.
 
@@ -182,6 +206,8 @@ Task management application with full CRUD operations and local persistence.
 
 </td>
 <td width="50%" valign="top">
+
+<img src="assets/project-weather.png" alt="Weather App project preview" width="100%"/>
 
 ### 🌦️ Weather App
 Weather forecasting application with real-time data, city search, and a responsive Flutter UI.
@@ -195,6 +221,8 @@ Weather forecasting application with real-time data, city search, and a responsi
 <tr>
 <td width="50%" valign="top">
 
+<img src="assets/project-react-ecommerce.png" alt="React E-Commerce Website project preview" width="100%"/>
+
 ### 🛒 React E-Commerce Website
 Modern e-commerce frontend built with React, featuring routing, a shopping cart, authentication UI, and responsive design.
 
@@ -204,6 +232,8 @@ Modern e-commerce frontend built with React, featuring routing, a shopping cart,
 
 </td>
 <td width="50%" valign="top">
+
+<img src="assets/project-portfolio.png" alt="Portfolio Website project preview" width="100%"/>
 
 ### 🌐 Portfolio Website
 Personal portfolio site showcasing my projects, technical skills, certifications, and professional journey.
@@ -332,4 +362,4 @@ I'm always interested in connecting with developers, contributing to exciting pr
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0175C2&height=100&section=footer" alt="footer banner" width="100%"/>
+<img src="assets/footer.png" alt="Let's build something intelligent" width="100%"/>

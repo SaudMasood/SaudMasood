@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:0A66C2&height=200&section=header&text=Saud%20Masood&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Mobile%20App%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=18" alt="header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:0A66C2&height=200&section=header&text=Saud%20Masood&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Mobile%20App%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=18" alt="Saud Masood - Flutter Mobile App Developer and AI/ML Engineer" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Flutter+Mobile+App+Developer+%F0%9F%93%B1;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%F0%9F%91%81%EF%B8%8F;Turning+Ideas+Into+Real+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Flutter+Mobile+App+Developer;AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Deep+Learning;Turning+Ideas+Into+Real+Apps" alt="Typing animation" />
 
-### 📱 Flutter Mobile App Developer &nbsp;|&nbsp; 🤖 AI / ML Engineer
-
-**Computer Science graduate building real-world mobile applications with Flutter, Dart and Firebase, and intelligent systems with AI, Machine Learning and Computer Vision.**
+**Flutter Mobile App Developer and AI / ML Engineer** building real-world applications with Flutter, Dart, Firebase, Machine Learning and Computer Vision.
 
 [![GitHub](https://img.shields.io/badge/GitHub-SaudMasood-181717?logo=github&logoColor=white)](https://github.com/SaudMasood)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saud%20Masood-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saud-masood-789898252/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:saudmasood974@gmail.com)
-[![Status](https://img.shields.io/badge/Open%20to-Work-brightgreen)]()
+[![Status](https://img.shields.io/badge/Open%20to-Work-brightgreen)](mailto:saudmasood974@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=SaudMasood&color=0A66C2&style=flat)
 [![Followers](https://img.shields.io/github/followers/SaudMasood?style=flat&logo=github&color=0A66C2)](https://github.com/SaudMasood?tab=followers)
 
@@ -21,7 +19,7 @@
 
 ## 🧭 About Me
 
-I'm a Computer Science graduate, **Flutter mobile app developer and AI/ML engineer**, focused on turning ideas into practical, user-friendly software. I combine **cross-platform mobile development with Artificial Intelligence** to build apps that are not just good-looking, but intelligent. I care about clean, maintainable code and shipping applications that solve real problems, not just tech demos.
+I'm a Computer Science graduate working as a **Flutter mobile app developer and AI / ML engineer**. I focus on turning ideas into practical, user-friendly software, with a particular interest in combining **mobile development with Artificial Intelligence**. I care about clean, maintainable code and shipping applications that solve real problems, not just tech demos.
 
 <table>
 <tr>
@@ -30,7 +28,7 @@ I'm a Computer Science graduate, **Flutter mobile app developer and AI/ML engine
 **👀 Interested in**
 - Flutter & Mobile App Development
 - Artificial Intelligence & Machine Learning
-- Computer Vision & Deep Learning
+- Computer Vision
 - Software & Backend Development
 
 **🌱 Currently learning**
@@ -52,33 +50,16 @@ I'm a Computer Science graduate, **Flutter mobile app developer and AI/ML engine
 - Open-source collaboration
 
 **🎯 Goal**
-- To become a skilled engineer who builds impactful, intelligent, and scalable mobile and AI applications that solve real-world problems
+- To become a skilled software developer who builds impactful, intelligent, and scalable applications that solve real-world problems
 
 </td>
 </tr>
 </table>
 
 - 💞️ **Looking to collaborate on:** Open-source Flutter apps, AI-powered mobile apps, Machine Learning projects, Computer Vision solutions, REST API integrations
-- 📫 **How to reach me:** GitHub, LinkedIn, or email, open to collaboration, internships, freelance projects, and professional opportunities
+- 📫 **How to reach me:** GitHub, LinkedIn, or email. Open to collaboration, internships, freelance projects, and professional opportunities
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love combining mobile development with AI to turn creative ideas into intelligent, real-world applications
-
----
-
-## 📊 Live GitHub Stats
-
-> All cards below refresh automatically from GitHub: current streak, longest streak, total commits, stars, PRs, issues and more.
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=SaudMasood&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Saud Masood's live GitHub streak" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaudMasood&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Saud Masood's GitHub stats with total commits" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaudMasood&layout=compact&hide_border=true&langs_count=8" alt="Saud Masood's top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaudMasood&hide_border=true&area=true&color=0A66C2&line=0175C2&point=0A66C2" alt="Saud Masood's contribution activity graph" width="95%"/>
-
-</div>
 
 ---
 
@@ -274,6 +255,23 @@ Personal portfolio site showcasing my projects, technical skills, certifications
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+> Live stats pulled directly from GitHub. They refresh automatically, so there is nothing to update by hand.
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=SaudMasood&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Current streak, longest streak and total contributions" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaudMasood&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Total commits, stars, pull requests and issues" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaudMasood&layout=compact&hide_border=true" alt="Most used languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaudMasood&hide_border=true&area=true&color=0A66C2&line=0175C2&point=0A66C2" alt="Contribution activity graph" width="90%"/>
+
+</div>
 
 ---
 
